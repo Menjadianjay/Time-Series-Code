@@ -1,8 +1,4 @@
-# Time-Series-Code
-
 Python coursework for a time-series course exponential moving average (EMA) analysis of a bank customer-balance dataset and of BBCA.JK (Bank Central Asia) stock prices from Yahoo Finance. Code comments and notebook text are in Indonesian.
-
-This README describes the `main` branch. The remote also has `Development` and `Feature/1_Tugas_1`, `Feature/2_Tugas_2`, `Feature/3_Tugas_3` branches, which I did not inspect.
 
 ## What's in the repo
 
